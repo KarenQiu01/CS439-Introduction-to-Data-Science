@@ -1,0 +1,10 @@
+This code is © Karen Qiu, 2024.
+
+You may **cite** this repository in academic or professional works.
+
+You **may not** copy, redistribute, or modify this code in any form without **express written permission**.  
+Commercial use and derivative works are strictly prohibited.
+
+To request permission, contact: karen.qiu01@gmail.com
+
+Suggested citation: Qiu, K. (Year). *Repository Title* (Version number) [Source code]. GitHub. https://github.com/username/repository-name
